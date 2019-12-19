@@ -1,11 +1,11 @@
-@font-face {
-  font-family: "Mosk";
-  src: url("https://github.com/CropsProfit/cropsprofit.github.io/blob/master/fonts/mosk-webfont/Mosk%20Medium%20500.woff?raw=true");
-}
-
 body, html {
   height: 100%;
   background-color: #f9f9f9;
+}
+
+@font-face {
+  font-family: "Mosk";
+  src: url("https://github.com/CropsProfit/cropsprofit.github.io/blob/master/fonts/mosk-webfont/Mosk%20Medium%20500.woff?raw=true");
 }
 
 .login-container {
